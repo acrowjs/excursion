@@ -15,6 +15,12 @@ a{
   font-size: 16 px;  
 }
 
+p{
+  font-family: Verdana;
+  font-size: 21px;
+  color: grey;  
+}
+
 h2{
   font-family: Verdana;
   font-weight: 300;
