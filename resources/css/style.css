@@ -2,3 +2,8 @@ html{
   background-color: black;
   text-align: center;  
 }
+
+a{
+  color: Aquamarine;
+  font-size: 16 px;  
+}
