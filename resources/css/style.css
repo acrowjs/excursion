@@ -3,7 +3,15 @@ html{
   text-align: center;  
 }
 
+h1{
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;  
+}
+
 a{
   color: Aquamarine;
   font-size: 16 px;  
 }
+
