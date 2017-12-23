@@ -28,3 +28,8 @@ h2{
   color: white;
 }
 
+footer{
+  text-align: right;
+  font-size: 21px;
+  color: grey;  
+}
